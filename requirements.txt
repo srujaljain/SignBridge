@@ -1,0 +1,13 @@
+jupyter
+notebook
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python
+mediapipe
+scikit-learn
+joblib
+streamlit
+pyttsx3
