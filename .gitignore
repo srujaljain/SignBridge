@@ -1,29 +1,22 @@
-# Python virtual environment
+# Python environment
 .venv/
-venv/
-
-# Python cache
 __pycache__/
 *.pyc
 
-# Jupyter
-.ipynb_checkpoints/
-
-# Dataset files
-data/raw/*
-data/processed/*
+# Datasets
+data/raw/
+data/processed/
 
 # Trained models
-models/*.pkl
-models/*.joblib
+*.pkl
+*.joblib
+*.sf
 
-# Salesforce CLI
-.sf/
+# Jupyter temporary files
+.ipynb_checkpoints/
 
-# VS Code settings
+# IDE
 .vscode/
 
-# Temporary files
+# Logs
 *.log
-.DS_Store
-Thumbs.db
